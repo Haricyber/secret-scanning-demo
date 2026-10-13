@@ -4,3 +4,6 @@ AWS_ACCESS_KEY_ID="AKIAxxxxxxxxxxxxx"
 AWS_SECRET_ACCESS_KEY="demo_secret_key_123456"
 github_token = "ghp_xxxxxxxxxxxxxxxxx"
 Password = "Test@1234"
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
