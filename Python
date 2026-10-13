@@ -1,0 +1,4 @@
+# app.py
+
+AWS_ACCESS_KEY_ID="AKIAxxxxxxxxxxxxx"
+AWS_SECRET_ACCESS_KEY="demo_secret_key_123456"
